@@ -1,0 +1,13 @@
+/* FONTS */
+
+@font-face {
+    font-family: raleway;
+    src: url("../fonts/raleway.woff") format("woff"); /* For IE */
+    src: local("roboto"), url("../fonts/raleway.woff") format("woff"); /* For non-IE */
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  html {
+    font-family: "raleway";
+  }
