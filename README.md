@@ -35,3 +35,8 @@ $ npm install -D copy-webpack-plugin
 ### Packages
 
 $ npm i react react-dom phoenix babel-polyfill
+
+## Configure webpack, babel, package.json
+
+Voir fichiers respectifs
+
